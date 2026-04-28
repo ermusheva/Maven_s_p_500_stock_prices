@@ -10,3 +10,10 @@ venv/
 *.log
 .DS_Store
 data/
+*.txt
+*.pbix
+dashboard/Background dark.jpg
+dashboard/Background dark.pptx
+dashboard/down.png
+dashboard/metrics.xlsx
+dashboard/up-arrow.png
